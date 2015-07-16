@@ -16,7 +16,7 @@ import java.util.Calendar;
 
 public class MainActivity extends ActionBarActivity {
 
-    //start
+    //test change on the github
 
     private TextView text_date;
     private DatePicker date_picker;
